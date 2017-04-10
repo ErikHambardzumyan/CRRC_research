@@ -15,7 +15,7 @@
 #                                                                 #
 #                                                                 #                                     
 ###################################################################
-# Author : Erik Hambardzumyan 2016 under CRRC Armenia Fellowship  #
+# Author : Erik Hambardzumyan 2017 under CRRC Armenia Fellowship  #
 #                                                                 #                                              #
 ###################################################################
 
